@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://giriaakula.com"
 title = "Giri Aakula"
 theme = "hugo-coder"
 languageCode = "en"
