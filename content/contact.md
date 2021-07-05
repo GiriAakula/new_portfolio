@@ -6,4 +6,4 @@ aliases = ["contact", "contact-giri", "contact"]
 author = "Giri Aakula"
 +++
 
-Follow me, [@johndoe](https://twitter.com/giriaakula).
+Follow me, [@giriaakula](https://twitter.com/giriaakula).
