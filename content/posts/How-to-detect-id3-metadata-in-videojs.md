@@ -12,9 +12,9 @@ tags = [
 
 # What is ID3 metadata?
 
-An ID3 metadata is information that is embedded into a stream.It could be any stream hls or dash.
+An ID3 metadata is information that is embedded into a stream. It could be any stream hls or dash.
 
-Videojs library supports all the above mentioned media formats.
+[Videojs](https://videojs.com) library supports all the above mentioned media formats.
 
 We can detect id3 metadata from the video stream using videojs library.
 
@@ -37,11 +37,13 @@ playerInstance.textTracks().on('addtrack', function (e) {
 
 Example - ```let playerInstance = new videojs("playerId")```
 
-### Exaplanation:
+### Explanation:
 
 Here we listen for *addTrack* event and on each add track we check if the label is Timed Metadata or not.
 
 If the metadata is Timed Metadata then we will add an event listener for cuechange. This will fire on every cue change which means of every ts segment change in hls stream. We will get the id3 metadata in that frame by using some conditions.
+
+
 
 Write to me if you have any offer for me - me@giriaakula.com
 
