@@ -13,8 +13,8 @@ enableEmoji = true
 
 [params]
 author = "Giri Aakula"
-description = "Giri Aakula's personal website"
-keywords = "blog,developer,personal"
+description = "Giri is a full stack javascript developer who has been working on web applications for the past 5 years. He likes to build things that are useful and easy to use. He is also a big fan of the open source community and has contributed to many projects."
+keywords = "giri akula, giri, akula, giriakula.com, aakula, aakula giri, akula giri, giri aakula, giriaakula, giriakula, giri blog, giri website, giri engineer"
 info = ["Full Stack Developer"]
 avatarURL = "images/avatar.jpeg"
 #gravatar = "me@giriaakula.com"
